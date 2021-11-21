@@ -1,0 +1,15 @@
+{
+  "name": "projectx",
+  "version": "1.0.0",
+  "description": "An online classroom by Govind Institutes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "classroom",
+    "govind"
+  ],
+  "author": "Jageshwar Sah",
+  "license": "ISC"
+}
